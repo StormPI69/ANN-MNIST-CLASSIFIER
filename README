@@ -1,0 +1,11 @@
+This is a submission for Assignment 1 Machine Learning/Assignment ARTIFICIAL NEURAL NETWORKS
+
+This submission contains the following files:
+
+Classifier0.py- MNIST Classification Program (foward feed neural network with no hidden layer)
+Classifier.py- MNIST Classification Program (foward feed neural network with one hidden layer)
+Classifier2.py- MNIST Classification Program (foward feed neural network with two hidden layer)
+makefile- builds virtual environment 
+requirements.txt - requirements for building virtual environment
+git repo- containing commits
+
